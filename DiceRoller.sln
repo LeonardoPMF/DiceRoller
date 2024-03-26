@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DEAC33C-1664-46B5-AD0A-98D5E6916CCE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32A40BB-347D-4C88-98AA-03ACE8FDA13B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197F0803-6D32-4D11-B4E4-1DFA23540D5C}
+	EndGlobalSection
+EndGlobal
